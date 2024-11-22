@@ -17,6 +17,3 @@ print(POEMS_ONE)
 print(stars)
 print(POEMS_TWO)
 print(stars)
-
-
-
