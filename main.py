@@ -6,7 +6,7 @@ print("Вітаємо вас в нашому закладі")
 name = input('Як вас звати?').title()
 print(phrases.phrases)
 
-pancakes1 = input(f'{name} введіть кількість млинців >> ')
+pancakes1 = input(f'{name} введіть кількість млинців >>  ')
 pancakes_quantity = int(pancakes1)
 pancakes_price = prices.pancakes
 total_pancakes = pancakes_quantity * pancakes_price
