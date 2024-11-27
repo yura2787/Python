@@ -1,5 +1,3 @@
-from functools import total_ordering
-
 import prices
 import phrases
 from prices import yogurt, pancakes, omelette, ice_cream, cake
