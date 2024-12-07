@@ -15,4 +15,4 @@ elif age >= 18 and age <= 60:
 elif age > 61:
     price = 70
 
-put_text(f'Вхід у зоопарк коштує {price} грн')
+put_text(f'Вхід у зоопарк коштує {price} грн.')
