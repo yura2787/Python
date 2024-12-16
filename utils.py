@@ -26,7 +26,7 @@ def get_multiplied_string(letter:  str, multiplicator: int = 5) -> str:
 
 
 def get_list_with_numbers() -> list[int | float]:
-    result = [111111, 23.65]
+    result = [111111, 23.65.]
     return result
 
 

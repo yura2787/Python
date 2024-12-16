@@ -33,6 +33,6 @@ def main():
     print(utils.get_multiplied_string('a'))
     print(utils.get_multiplied_string('b'))
     print(utils.get_multiplied_string('c'))
-    print(utils.get_multiplied_string('d'))
+    print(utils.get_multiplied_string('d.'))
 
 main()
