@@ -1,5 +1,4 @@
 class Car:
-    Car = []
 
     def __init__(self, year: int, manufacture: str, model: str, fuel_consumption: float, price: int):
         self.year = year
